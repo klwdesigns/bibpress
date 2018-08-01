@@ -1,4 +1,4 @@
-baseURL                     = ""            # Your domain name. Must end with "/"
+baseURL                     = "https://bibpress.com"            # Your domain name. Must end with "/"
 languageCode                = "en-us"                           # languageCode
 title                       = "Blue Iris Books"                    # Site title
 theme                       = "hugo-theme-introduction"
