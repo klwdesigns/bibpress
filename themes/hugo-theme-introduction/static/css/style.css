@@ -10,23 +10,23 @@
 }
 
 a {
-  color: blue;
+  color: #1155cc;
 }
 
 .markdown a {
-  color: blue;
+  color: #1155cc;
 }
 
 .container .markdown a {
-  color: blue;
+  color: #1155cc;
 }
 
 .container .markdown .fade-in a {
-  color: blue;
+  color: #1155cc;
 }
 
 .hero-body a {
-  color: blue;
+  color: #1155cc;
 }
 
 .image.is-3by2 img {
@@ -48,4 +48,8 @@ a {
 
 .container h2 a {
   color: black;
+}
+
+.column .card {
+  padding-bottom: 50px;
 }
