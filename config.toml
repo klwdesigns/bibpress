@@ -6,7 +6,7 @@ pygmentsStyle               = "monokai"                         # https://help.f
 pygmentsCodefences          = true
 enforce_ssl                 = false
 # disqusshortname           = ""                                # Enable Disqus for comments https://gohugo.io/content-management/comments
-# googleAnalytics           = ""                                # Enable Google Analytics https://gohugo.io/templates/internal/#google-analytics
+googleAnalytics             = "UA-56280078-2"                                # Enable Google Analytics https://gohugo.io/templates/internal/#google-analytics
 
 [params]
     firstName               = "Blue Iris Books"                 # First name shows in introduction on main page
