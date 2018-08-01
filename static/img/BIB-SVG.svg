@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 317.681 38">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0334ff;
+        font-size: 38px;
+        font-family: Quanten-Singular, Quanten;
+        letter-spacing: -0.025em;
+      }
+    </style>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-21 -121)">
+    <text id="BLUE" class="cls-1" transform="translate(21 150)"><tspan x="0" y="0">BLUE</tspan></text>
+    <text id="IRIS" class="cls-1" transform="translate(126.64 150)"><tspan x="0" y="0">IRIS</tspan></text>
+    <text id="BOOKS" class="cls-1" transform="translate(207.681 150)"><tspan x="0" y="0">BOOKS</tspan></text>
+  </g>
+</svg>
