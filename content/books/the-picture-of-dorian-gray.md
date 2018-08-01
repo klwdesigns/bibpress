@@ -3,7 +3,7 @@ title: "The Picture of Dorian Gray"
 author: "Oscar Wilde"
 date: 2018-07-31T09:21:50-05:00
 image: "img/Dorian-Gray-300x300.jpg"
-external_link: "books/the-picture-of-dorian-gray/"
+external_link: "/books/the-picture-of-dorian-gray/"
 weight: 3
 draft: false
 ---

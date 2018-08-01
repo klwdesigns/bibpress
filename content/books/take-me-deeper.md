@@ -3,7 +3,7 @@ title: "Take Me Deeper"
 author: "Krista Lyn White"
 date: 2018-07-31T09:20:59-05:00
 image: "img/Take-Me-Deeper-300x300.jpg"
-external_link: "books/take-me-deeper/"
+external_link: "/books/take-me-deeper/"
 weight: 4
 draft: false
 ---

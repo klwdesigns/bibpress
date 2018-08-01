@@ -3,7 +3,7 @@ title: "Over Oceans"
 author: "Krista Lyn White"
 date: 2018-07-31T09:19:20-05:00
 image: "img/Over-Oceans-300x300.jpg"
-external_link: "books/over-oceans/"
+external_link: "/books/over-oceans/"
 weight: 2
 draft: false
 ---

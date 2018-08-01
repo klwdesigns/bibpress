@@ -3,7 +3,7 @@ title: "The Pilgrim's Progress"
 author: "John Bunyan"
 date: 2018-07-31T09:24:09-05:00
 image: "img/Pilgrims-Progress-300x300.jpg"
-external_link: "books/the-pilgrims-progress/"
+external_link: "/books/the-pilgrims-progress/"
 weight: 1
 draft: false
 ---
