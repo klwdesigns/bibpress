@@ -52,5 +52,5 @@ googleAnalytics             = "UA-56280078-2"                                # E
     icon = "facebook"
 
 [[params.social]]
-    url  = "https://instragram.com/blueirisbooks/"
+    url  = "https://instagram.com/blueirisbooks/"
     icon = "instagram"
