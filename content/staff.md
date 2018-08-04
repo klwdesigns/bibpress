@@ -26,4 +26,6 @@ Eric joined Blue Iris Books in 2015. He has a Ph.D. in English Literature from B
 
 Editorial Assistant
 
+{{< figure src="/img/leah-peters.jpg" >}}
+
 Leah lives in Albuquerque and studied at Belhaven University in Jackson, Mississippi. Before starting in publishing, she proofread everything that came across her desk. She is interested in reading a wide array of authors.
