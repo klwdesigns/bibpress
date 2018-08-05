@@ -28,4 +28,4 @@ Editorial Assistant
 
 {{< figure src="/img/leah-peters.jpg" >}}
 
-Leah lives in Albuquerque and studied at Belhaven University in Jackson, Mississippi. Before starting in publishing, she proofread everything that came across her desk. She is interested in reading a wide array of authors.
+Leah studied at Belhaven University in Jackson, Mississippi. Before starting in publishing, she proofread everything that came across her desk. She is interested in reading a wide array of authors.
