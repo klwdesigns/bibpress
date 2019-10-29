@@ -31,4 +31,4 @@ Better, though difficult, the right way to go,<br>
 Than wrong, though easy, where the end is woe.”<br>
 - John Bunyan, _The Pilgrim's Progress_
 
-Look for the Blue Iris Books forthcoming edition of John Bunyan's [_The Pilgrim's Progress_](/books/the-pilgrims-progress/), due out in September 2018.
+Look for the Blue Iris Books forthcoming edition of John Bunyan's [_The Pilgrim's Progress_](/books/the-pilgrims-progress/), due out in December 2019.
