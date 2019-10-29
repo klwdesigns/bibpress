@@ -10,7 +10,7 @@ Publisher & Managing Editor
 
 {{< figure src="/img/krista-lyn-white.jpg" >}}
 
-Krista has worked in publishing since 1997. She started Blue Iris Books in 2012 with a passion to publish great books that are beautifully designed. Krista travels widely and has a particular interest in European culture and history. She is the founder of Women's Sports Outreach and has written many books.
+Krista has worked in publishing since 1997. She started Blue Iris Books in 2012 with a passion to publish great books that are beautifully designed. Krista travels widely and has a particular interest in European culture and history.
 
 
 
