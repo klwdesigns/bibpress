@@ -20,9 +20,9 @@ googleAnalytics             = "UA-56280078-2"                                # E
     dateForm                = "Jan 2, 2006"
     dateFormFull            = "Mon Jan 2 2006 15:04:05 EST"
     cacheBuster             = true                             # Add the current unix timestamp in query string for cache busting css assets (relevant in development mode)
-    description             = "Blue Iris Books, LLC is an independent publishing company. We publish novels, memoirs, essays, and poetry."             # Max 160 characters show in search results
+    description             = "Blue Iris Books is an independent publishing company. We publish novels, memoirs, essays, and poetry."             # Max 160 characters show in search results
     faviconFile             = "img/favicon.png"
-    footerText              = "© 2018 Blue Iris Books, LLC <br>All rights reserved.<br>[Privacy](/privacy/) | [Terms of Use](/terms/)"                                # Text to override default footer text (markdown allowed)
+    footerText              = "© 2019 Blue Iris Books<br>All rights reserved.<br>[Privacy](/privacy/) | [Terms of Use](/terms/)"                                # Text to override default footer text (markdown allowed)
     fadeIn                  = true                              # Turn on/off the fade-in effect
     customCSS               = ["css/style.css"]                                # Include custom css files e.g. ["css/foo.css", "css/bar.css"]
 
@@ -38,7 +38,7 @@ googleAnalytics             = "UA-56280078-2"                                # E
 
     showBooks            = true                              # Show Books section on home page
     numberOfBooksToShow  = 3                                 # Maximum number of books to show on home page. Unset or comment out to show all projects.
-    placeHolderimg          = "img/logo-sm.png"                # For Books without image
+    placeHolderimg          = "img/BiB-logo-sm.png"                # For Books without image
 
 # Social icons appear in introduction and contact section. Add as many more as you like.
 # Find icon names here: http://fontawesome.io/cheatsheet/
