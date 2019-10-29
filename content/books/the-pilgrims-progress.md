@@ -22,6 +22,5 @@ In _The Pilgrim’s Progress_, Bunyan has pictured for readers the journey of a 
 
 350 pages
 Formats: Paperback/E-book
-Book designer: Krista Lyn White
 
-Publish date: September 2018
+Publish date: December 2019

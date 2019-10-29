@@ -17,11 +17,7 @@ If there was a book that could take you to the shores of your deepest needs, wou
 Formats: Paperback<br>
 Published: 29 September 2017<br>
 ISBN: 978-0988580572 (Paperback)<br>
-Book designer: Krista Lyn White
-
 
 **Buy now from:**<br>
-
-[Blue Iris Books](https://blueirisbooks.bigcartel.com)<br>
 
 [Amazon](https://www.amazon.com/dp/0988580578/)<br>

@@ -18,8 +18,5 @@ Formats: Paperback/E-book<br>
 Published: 2017<br>
 ISBN: 978-0988580503 (Paperback)<br>
 ISBN: 978-0988580541 (E-Book)<br>
-Book designer: Krista Lyn White
 
 **Buy now from:**<br>
-
-[Blue Iris Books](https://blueirisbooks.bigcartel.com)<br>
