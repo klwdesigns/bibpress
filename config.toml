@@ -26,7 +26,7 @@ googleAnalytics             = "UA-56280078-2"                                # E
     fadeIn                  = true                              # Turn on/off the fade-in effect
     customCSS               = ["css/style.css"]                                # Include custom css files e.g. ["css/foo.css", "css/bar.css"]
 
-    showBlog                = true                              # Show Blog section on home page
+    showBlog                = false                              # Show Blog section on home page
     showAllPosts            = true                             # Set 'true' to list all posts on home page, or set 'false' to link to separate blog list page
     showLatest              = true                              # Show latest blog post summary
     # Share buttons on blog post pages
