@@ -4,20 +4,15 @@ date: 2018-07-31T09:15:40-05:00
 draft: false
 ---
 
-      <form name="contact-BIB" netlify>
+      <form name="contact-BIB" method="POST" data-netlify-recaptcha="true" data-netlify="true">
         <p>
-          <label>Name:<br><input type="text" name="name" /></label>
+          <label>Email: <input type="text" name="name" /></label>
         </p>
         <p>
-          <label>Email:<br><input type="email" name="email" /></label>
+          <label>Message: <textarea name="message"></textarea></label>
         </p>
+        <div data-netlify-recaptcha="true"></div>
         <p>
-          <label>Message:<br><textarea name="message" /></textarea></label>
-        </p>
-        <p>
-          Your information will only be used to respond to you.<br> View our full <a href="/privacy/">Privacy Policy</a>.
-        </p>
-        <p>
-          <button class="button-email" type="submit">Send</button>
+          <button type="submit">Send</button>
         </p>
       </form>
