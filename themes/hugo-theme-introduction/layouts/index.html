@@ -30,16 +30,16 @@
     <hr>
     <nav class="nav-center">
         {{ if (.Site.GetPage "page" "about") }}
-        <a class="nav-item" href="#about">About</a>
+        <a class="nav-item" href="https://bibpress.com/about/">About</a>
         {{ end }}
         {{ if .Site.Params.showBooks }}
         <a class="nav-item" href="#books">Books</a>
         {{ end }}
         {{ if .Site.Params.showBlog }}
-        <a class="nav-item" href="#blog">Blog</a>
+        <a class="nav-item" href="https://bibpress.com/blog/">Blog</a>
         {{ end }}
         {{ if (.Site.GetPage "page" "contact") }}
-        <a class="nav-item" href="#contact">Contact</a>
+        <a class="nav-item" href="https://bibpress.com/contact/">Contact</a>
         {{ end }}
     </nav>
     <hr>
@@ -47,7 +47,7 @@
 </div><!-- Done with Hero -->
 
 <!-- Everything below fades in three! -->
-<div class="section no-padding {{ if .Site.Params.fadeIn | default true }}fade-in three{{ end }}">
+<!--<div class="section no-padding {{ if .Site.Params.fadeIn | default true }}fade-in three{{ end }}">
 
 <!-- Tell them all about it!
 {{ if (.Site.GetPage "page" "about") }}
@@ -73,8 +73,6 @@
 
 <!-- End About section -->
 
-<div class="container"><hr></div>
-{{ end }}
 
 <!-- Now for some cool books -->
     {{ if .Site.Params.showBooks }}
@@ -96,12 +94,12 @@
     {{ end }}
 
 <!-- Let's chat, shall we? -->
-{{ if (.Site.GetPage "page" "contact") }}
+<!--{{ if (.Site.GetPage "page" "contact") }} -->
 <div class="section" id="contact">
     <div class="container has-text-centered">
     <h2 class="title is-2">Contact</h2>
 
-          <!-- remove for now 
+          <!-- remove for now
         <div class="markdown">
             {{ (.Site.GetPage "page" "contact").Content }}
         </div>
